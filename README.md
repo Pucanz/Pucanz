@@ -3,7 +3,7 @@
 # Hi 👋, I'm Paulo Silva
 ### Junior Fullstack Developer
 
-🚀 After 15 years in logistics, I’ve transitioned to tech, pursuing my passion for development.<br><br>💻 Currently learning Java, JavaScript, HTML, CSS, and modern frameworks in a Full Stack bootcamp.<br><br>🚀 Excited to collaborate on innovative projects and create something amazing!
+🚀 After 15 years in logistics, I’ve transitioned to tech, pursuing my passion for development.<br><br>💻 Junior Full Stack Developer with experience in Java, JavaScript, HTML, CSS, and modern frameworks.<br><br>🚀 Excited to collaborate on innovative projects and create something amazing!
 
 
 ## 🌐 Socials:
